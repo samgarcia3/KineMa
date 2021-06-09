@@ -1,2 +1,4 @@
 # KineMa
-A complete analysis on film recommendation systems and talent
+A complete reamagining of film recommendation systems 
+
+STAY TUNED
